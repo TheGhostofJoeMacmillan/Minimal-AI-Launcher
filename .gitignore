@@ -58,3 +58,15 @@ Thumbs.db
 # Backup files
 *.bak
 *.backup
+
+# Development files
+main*.py
+*_log.md
+progress*.md
+
+# Screenshots and images
+*.png
+*.jpg
+*.jpeg
+*.gif
+Screenshot_*
