@@ -64,9 +64,12 @@ main*.py
 *_log.md
 progress*.md
 
-# Screenshots and images
+# Screenshots and images (except examples)
 *.png
 *.jpg
 *.jpeg
 *.gif
 Screenshot_*
+
+# Allow specific example images
+!Minimal-AI-LAuncher*.png
