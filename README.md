@@ -4,7 +4,6 @@ A lightweight, floating AI assistant launcher for Linux desktop environments. Ge
 
 > **Coming Soon**: Multi-model support! Future versions will allow you to switch between different AI providers (OpenAI, Anthropic, etc.) in addition to Google Gemini.
 
-![AI Launcher Demo](demo.gif)
 
 ## Features
 
