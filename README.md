@@ -1,13 +1,15 @@
 # Minimal AI Launcher
 
-A lightweight, floating AI assistant launcher for Linux desktop environments. Get instant access to Google's Gemini AI through a sleek, overlay interface that appears on demand and disappears when you're done.
+A lightweight, floating AI assistant launcher for Linux desktop environments. Get instant access to AI models through a sleek, overlay interface that appears on demand and disappears when you're done.
+
+> **Coming Soon**: Multi-model support! Future versions will allow you to switch between different AI providers (OpenAI, Anthropic, etc.) in addition to Google Gemini.
 
 ![AI Launcher Demo](demo.gif)
 
 ## Features
 
 - **Floating Overlay Interface**: Always-on-top, translucent window that appears in the center of your screen
-- **Instant AI Access**: Direct integration with Google Gemini 2.5 Flash for fast responses
+- **Instant AI Access**: Direct integration with Google Gemini 2.5 Flash for fast responses (multi-model support coming soon)
 - **Smart Resizing**: Window automatically adjusts height based on conversation length
 - **Streamlined UX**: Auto-closes on focus loss, start new conversations by simply typing
 - **Built-in Commands**: Quick shortcuts for common applications
@@ -175,4 +177,3 @@ MIT License - see LICENSE file for details.
 
 - Built with [Google Gemini API](https://ai.google.dev/)
 - Uses [GTK 3](https://gtk.org/) for the user interface
-- Inspired by launcher applications like Alfred and Raycast
